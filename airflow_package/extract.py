@@ -10,7 +10,7 @@ if 'test' not in globals():
 @data_loader
 def load_data_from_api(*args, **kwargs):
 
-    url = 'https://storage.googleapis.com/uber-data-analytcs-project-darshil/uber_data.csv'
+    url = 'https://storage.googleapis.com/uber-data-analytcs-project/uber_data.csv'
     response = requests.get(url)
 
     return pd.read_csv(io.StringIO(response.text), sep=',')

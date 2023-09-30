@@ -15,11 +15,11 @@ Google Cloud Platform
 3. BigQuery
 4. Looker Studio
 
-# Data pipelining tool
+Data pipelining tool
 
 Airflow
 
-# Programming Language
+Programming Language
 
 Python
 
@@ -32,3 +32,6 @@ Dataset sources:
 Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
+# Data Model
+
+<img width="1300" alt="Screenshot 2023-09-30 at 2 40 55 PM" src="https://github.com/rjs-7399/uber-data-analytics-GCP/assets/38734146/03e3dcd4-020c-4967-9011-74ca27cbcac5">
